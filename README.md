@@ -5,7 +5,7 @@ WinHostsManager is a lightweight and easy to use application that wll enable you
 
 Before applying any of he changes you opt for, WinHostsManager will create a backup copy of the original file so you can restore it in case something goes wrong with the modifications you make. 
 
-**Download latest version:** [1.0.1.3!](https://raw.githubusercontent.com/Dev-P/Win-HOSTSManager/master/Dist/WinHostsManager-x86-1.0.1.3.zip)
+**Download latest version:** [1.0.1.3](https://raw.githubusercontent.com/Dev-P/Win-HOSTSManager/master/Dist/WinHostsManager-x86-1.0.1.3.zip)
 
 ![Image of Program](http://i1-win.softpedia-static.com/screenshots/WinHostsManager_3.png)
 
